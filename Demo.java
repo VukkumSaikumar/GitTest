@@ -3,6 +3,7 @@ public class MyClass {
         
        System.out.println("Hello");
            int a=25;
-           int b=20;   
+           int b=20;
+             String s="abc";   
   }
 }
